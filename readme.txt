@@ -1,7 +1,7 @@
-testing
+testing some conflicts
 
 second edit
 
-this one may cause some conflicts.. be ready now
-
 new feature here
+
+this one may cause some conflicts. But they were finally solved
